@@ -63,10 +63,6 @@ We evaluate our model using two publicly available KB-VQA dataset.
 
 We extract the top-k passages related to the input image and the question with the knowledge retriever, using the pre-trained PreFLMR.
 
-```
-python .\Retrieval\retrieval.py
-```
-
 ### Step. 1-2 Generate Knowledge Notes
 ```
 python .\generate_knowledge_notes.py
@@ -79,10 +75,6 @@ python .\generate_knowledge_notes.py
 <a href="https: //github.com/ramprs/grad-cam/" target="_blank">
     <img alt="Github GradCAM" src="https://img.shields.io/badge/Github-GradCAM-F2F2F2?logo=github&logoColor=white" />
 </a>
-
-```
-python .\GradCAM\generate_visual_notes.py
-```
 
 ### Step. 3 Generate Output
 ```
