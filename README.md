@@ -72,7 +72,7 @@ python .\generate_knowledge_notes.py
 <a href="https://ieeexplore.ieee.org/document/8237336" target="_blank">
     <img alt="Paper GradCAM" src="https://img.shields.io/badge/%F0%9F%93%96%20Paper-GradCAM-C6E7FF?logoColor=white" />
 </a>
-<a href="https: //github.com/ramprs/grad-cam/" target="_blank">
+<a href="https://github.com/ramprs/grad-cam/" target="_blank">
     <img alt="Github GradCAM" src="https://img.shields.io/badge/Github-GradCAM-F2F2F2?logo=github&logoColor=white" />
 </a>
 
