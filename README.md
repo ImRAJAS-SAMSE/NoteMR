@@ -39,7 +39,6 @@ We evaluate our model using two publicly available KB-VQA dataset.
 <a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136680141.pdf" target="_blank">
     <img alt="Paper AOKVQA" src="https://img.shields.io/badge/%F0%9F%93%96%20Paper-AOKVQA-C6E7FF?logoColor=white" />
 </a>
-
 <a href="https://github.com/allenai/aokvqa" target="_blank">
     <img alt="Github AOKVQA" src="https://img.shields.io/badge/Github-AOKVQA-F2F2F2?logo=github&logoColor=white" />
 </a>
